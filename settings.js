@@ -31,10 +31,10 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.botname = "𝘾ᴙ𝗧𝗮𝗳𝘁𝘆.𝗣𝗮𝗻𝗱𝗮.𝘽𝙤𝙩-𝙈𝘿" //namabot kalian
+global.ownername = "ᴹᴿ᭄𝘾ᴙ𝗧𝗮𝗳𝘁𝘆.𝗣𝗮𝗻𝗱𝗮.𝘽𝙤𝙩-𝙈𝘿 ×፝֟͜×" //nama kalian
 global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
+global.youtube = "https://youtube.com/@mubashirriaz001" //bebas asal jan hapus
 global.myweb2 = "https://s.id/zeeoneofc" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
